@@ -1,4 +1,4 @@
-// import './../css/componentes.css';
+import './../css/componentes.css';
 
 const eventos = () => {
     console.log('Event Listeners');
@@ -11,4 +11,4 @@ const init = () => {
 
 export {
     init
-}
+} 
